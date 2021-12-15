@@ -1,0 +1,42 @@
+21-12-15 17:04.206 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House House(number=1, apartmentCount=1, floorCount=1, id=0, apartments=[Apartment(sqare=1, roomer=1, cntRooms=1, number=1, floor=1)]) added
+21-12-15 17:04.209 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House House(number=1, apartmentCount=2, floorCount=4, id=1, apartments=[Apartment(sqare=1, roomer=1, cntRooms=1, number=1, floor=1)]) added
+21-12-15 17:04.209 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House House(number=1, apartmentCount=2, floorCount=4, id=1, apartments=[Apartment(sqare=1, roomer=1, cntRooms=1, number=1, floor=1)]) removed
+21-12-15 17:04.209 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House House(number=1, apartmentCount=2, floorCount=4, id=2, apartments=[Apartment(sqare=1, roomer=1, cntRooms=1, number=1, floor=1)]) added
+21-12-15 17:04.210 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House House(number=2, apartmentCount=2, floorCount=4, id=3, apartments=[Apartment(sqare=1, roomer=1, cntRooms=1, number=1, floor=1)]) added
+21-12-15 17:04.211 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House House(number=2, apartmentCount=2, floorCount=4, id=5, apartments=[Apartment(sqare=1, roomer=1, cntRooms=1, number=1, floor=1)]) added
+21-12-15 17:04.212 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House House(number=1, apartmentCount=2, floorCount=4, id=4, apartments=[Apartment(sqare=1, roomer=1, cntRooms=1, number=1, floor=1)]) added
+21-12-15 17:04.219 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House House(number=1, apartmentCount=1, floorCount=1, id=6, apartments=[Apartment(sqare=58, roomer=3, cntRooms=3, number=1, floor=1)]) added
+21-12-15 17:04.221 [main] INFO  com.mikola.accsys.modelservice.HouseService - All sqare house №1 is 1
+21-12-15 17:04.222 [main] INFO  com.mikola.accsys.modelservice.HouseService - All sqare house №1 is 1
+21-12-15 17:04.223 [main] INFO  com.mikola.accsys.modelservice.HouseService - All sqare house №2 is 1
+21-12-15 17:04.224 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House House(number=1, apartmentCount=1, floorCount=1, id=11, apartments=[Apartment(sqare=59, roomer=3, cntRooms=3, number=1, floor=1)]) added
+21-12-15 17:04.227 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House House(number=1, apartmentCount=1, floorCount=1, id=12, apartments=[Apartment(sqare=65, roomer=2, cntRooms=2, number=1, floor=1)]) added
+21-12-15 17:04.228 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House House(number=1, apartmentCount=1, floorCount=1, id=13, apartments=[Apartment(sqare=79, roomer=4, cntRooms=4, number=1, floor=1)]) added
+21-12-15 17:07.766 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №2(id = 1) added
+21-12-15 17:07.767 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №1(id = 0) added
+21-12-15 17:07.770 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №1(id = 2) added
+21-12-15 17:07.770 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №1(id = 2) removed
+21-12-15 17:07.770 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №1(id = 3) added
+21-12-15 17:07.771 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №2(id = 4) added
+21-12-15 17:07.772 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №1(id = 5) added
+21-12-15 17:07.776 [main] INFO  com.mikola.accsys.modelservice.HouseService - All sqare house №1 is 1
+21-12-15 17:07.777 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №1(id = 8) added
+21-12-15 17:07.778 [main] INFO  com.mikola.accsys.modelservice.HouseService - All sqare house №1 is 1
+21-12-15 17:07.778 [main] INFO  com.mikola.accsys.modelservice.HouseService - All sqare house №2 is 1
+21-12-15 17:07.778 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №1(id = 11) added
+21-12-15 17:07.780 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №1(id = 12) added
+21-12-15 17:07.781 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №1(id = 13) added
+21-12-15 18:09.682 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №1(id = 0) added
+21-12-15 18:09.684 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №1(id = 0) removed
+21-12-15 18:09.685 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №2(id = 2) added
+21-12-15 18:09.685 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №1(id = 1) added
+21-12-15 18:09.688 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №1(id = 3) added
+21-12-15 18:09.688 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №2(id = 4) added
+21-12-15 18:09.690 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №1(id = 5) added
+21-12-15 18:09.694 [main] INFO  com.mikola.accsys.modelservice.HouseService - All sqare house №1 is 1
+21-12-15 18:09.696 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №1(id = 7) added
+21-12-15 18:09.696 [main] INFO  com.mikola.accsys.modelservice.HouseService - All sqare house №1 is 1
+21-12-15 18:09.697 [main] INFO  com.mikola.accsys.modelservice.HouseService - All sqare house №2 is 1
+21-12-15 18:09.697 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №1(id = 10) added
+21-12-15 18:09.698 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №1(id = 11) added
+21-12-15 18:09.700 [main] INFO  mikola.accsys.repository.impl.HouseRepository - House №1(id = 13) added
